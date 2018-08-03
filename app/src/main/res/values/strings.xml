@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeworkLection10</string>
+    <string name="tvGroupNameTitleAdd">Group name:</string>
+    <string name="bntSaveGroupAdd">save</string>
+    <string name="tvGroupNameTitleEdit">Group name:</string>
+    <string name="bntSaveGroupEdit">save</string>
+    <string name="btnAddStudent">add student</string>
+    <string name="btnAddGroup">add group</string>
+    <string name="tvFirstNameTitleAdd">First name:</string>
+    <string name="tvLastNameTitleAdd">Last name:</string>
+    <string name="tvAgeTitleAdd">Age:</string>
+    <string name="tvGroupNameTitleAddStudent">Group name:</string>
+    <string name="btnSaveStudentAdd">save</string>
+    <string name="tvFirstNameTitleEdit">First name:</string>
+    <string name="tvLastNameTitleEdit">Last name:</string>
+    <string name="tvAgeTitleEdit">Age:</string>
+    <string name="tvGroupNameTitleEditStudent">Group name:</string>
+    <string name="btnSaveStudentEdit">save</string>
+</resources>
